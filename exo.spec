@@ -4,7 +4,7 @@
 #
 Name     : exo
 Version  : 0.10.7
-Release  : 10
+Release  : 11
 URL      : http://archive.xfce.org/src/xfce/exo/0.10/exo-0.10.7.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/exo/0.10/exo-0.10.7.tar.bz2
 Summary  : Extension library for Xfce
