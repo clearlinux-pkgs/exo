@@ -1,3 +1,341 @@
+commit 3c2dc1301aab268852db3afffaef09a884774449
+Author: 박정규(Jung-Kyu Park) <bagjunggyu@gmail.com>
+Date:   Mon Jul 10 06:30:03 2017 +0200
+
+    I18n: Update translation ko (100%).
+    
+    298 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8347349adb4a3c8ca1100bbf3436b56475b4fb8e
+Author: Kukuh Syafaat <syafaatkukuh@gmail.com>
+Date:   Mon Jul 10 06:30:03 2017 +0200
+
+    I18n: Update translation id (100%).
+    
+    298 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 61c341c7f3a5704295b280af425e3af9cb4ec425
+Author: Igor <f2404@yandex.ru>
+Date:   Mon Jul 10 00:30:02 2017 +0200
+
+    I18n: Update translation ru (100%).
+    
+    298 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit ce5c7a55e57edc5f14b1c3d02b2797b708dc5295
+Author: Pablo Roberto “Jristz” Lezaeta Reyes <prflr88@gmail.com>
+Date:   Mon Jul 10 00:30:02 2017 +0200
+
+    I18n: Update translation es (100%).
+    
+    298 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit e4cd235cc956838e41e66c2a5e860365a92433fc
+Author: Tobias Bannert <tobannert@gmail.com>
+Date:   Sun Jul 9 18:30:03 2017 +0200
+
+    I18n: Update translation de (98%).
+    
+    294 translated messages, 4 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 940106fbf9d917a0e34d9a203a442e1ae53a1c03
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Jul 9 18:30:03 2017 +0200
+
+    I18n: Update translation ar (95%).
+    
+    286 translated messages, 12 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 09872036ed2e72d593a9a2a050726bc5df9f4ab2
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 9 09:25:34 2017 -0400
+
+    Add exo_gtk_dialog_* public API and documentation
+
+commit e5cc0def909efa88346f8c008ae9671cb0e9e034
+Author: 玉堂白鹤 <yjwork@qq.com>
+Date:   Sun Jul 9 06:30:03 2017 +0200
+
+    I18n: Update translation zh_CN (98%).
+    
+    294 translated messages, 4 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit e642a08068a42acf20b77bf8a9211fd33117a5b8
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 20:22:08 2017 -0400
+
+    Makefile whitespace fixes
+
+commit 13f2bb846b1d980412838ea4339ebf67fbb2aff4
+Author: Yannick Le Guen <leguen.yannick@gmail.com>
+Date:   Sun Jul 9 00:30:02 2017 +0200
+
+    I18n: Update translation fr (100%).
+    
+    298 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit a100c1162cdf1a7a77f812e9c49143ec6efc9a8d
+Author: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>
+Date:   Sat Jul 8 12:30:04 2017 +0200
+
+    I18n: Update translation ca (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 0119075d725dbd832342c2073082c090df53fef3
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 05:59:17 2017 -0400
+
+    Add Geary mail
+
+commit fba54285b5dd9ad7210b56789e03212e78ef8fc5
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 05:58:32 2017 -0400
+
+    Add Vivaldi browser
+
+commit 1b6a400ab214b42270ff13afdaddbde64021fadb
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 05:22:12 2017 -0400
+
+    Add Brave browser
+
+commit 2345c3d6cee92a8042ca65e0a635c495c1f675d7
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 05:16:17 2017 -0400
+
+    Add Google Chrome helper, remove from Chromium helper
+
+commit da2dc36bac22bcdc0271022b0be650e4a5d0c970
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 05:00:37 2017 -0400
+
+    Drop Opera Mail, no longer provided by latest Opera version
+
+commit 5956d3297990a9ce709c61a7c71bc9b615b18b50
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 04:59:40 2017 -0400
+
+    Whitespace fixes
+
+commit 254eb318cdb184bab3186eb9f254c96a321fd75d
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 8 03:32:03 2017 -0400
+
+    Ignore GioScheduler deprecations
+
+commit fdb433f241ad65c3335a553d4209f07477cb1047
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Jul 7 06:30:02 2017 +0200
+
+    I18n: Update translation lt (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 45ae7eac4cffbaf7c994309682126ae2180b6005
+Author: Påvel Nicklasson <pavel2@frimix.se>
+Date:   Wed Jul 5 00:30:02 2017 +0200
+
+    I18n: Update translation sv (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 0f22ff6df412f63520f1dc5b2345c2be2800bd19
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Jul 4 08:39:06 2017 -0400
+
+    GTK3: Add insensitive state support for exo_cell_renderer_icon
+
+commit 4b2d1cfe973f6f23db9261b8475b8a206a8efda6
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Jul 4 08:19:00 2017 -0400
+
+    Drop deprecated gdk_window_process_updates for GTK+ 3.22
+
+commit 6bf668c6f67ab9241c790e884062009ac0c62dc5
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Jul 4 08:12:06 2017 -0400
+
+    Replace deprecated gdk_pixbuf_new_from_inline
+
+commit 87bd0a0e3c42c6c1b9dfcb3d95cceecdcda3ca3b
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Jul 4 06:44:53 2017 -0400
+
+    Add helper functions to remove gtk_dialog_get_action_area deprecation warnings
+
+commit 597eef8d7f2bc32627fdb47a2877343c5ef839a2
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Tue Jul 4 12:30:02 2017 +0200
+
+    I18n: Update translation nl (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 82c6ba19744fe2e565e80978c40a38547ae54a98
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Jul 4 05:55:01 2017 -0400
+
+    Replace deprecated gtk_style_context_get_background_color
+
+commit 721be49f57c9283edb9e621de5defc85b0a6e6ee
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 22:24:39 2017 -0400
+
+    Replace deprecated gdk_screen_* (thanks ninetls)
+
+commit 6ce5020c4119624d0c82b01fc807ba4a06a5cb91
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 22:01:30 2017 -0400
+
+    Drop unused gdk_screen_* code
+
+commit ae5807267b97ef395d9bc6def13b5f23fdb5015e
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 21:36:11 2017 -0400
+
+    Replace deprecated gdk_screen_make_display_name
+
+commit 24a27170604dba7c9e518ce6d0884bb0b5fe819b
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 20:14:49 2017 -0400
+
+    Drop non-standard gnome-fs-bookmark and gnome-mime-application-x-executable icons
+
+commit 199534217cfc30c342ea6d881ffebf72ad9d45b0
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 19:47:55 2017 -0400
+
+    Drop non-standard gnome-fs-* icons
+
+commit fd3a75ff5bf2ec4c20b8bd114d5a70ac911f95b2
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 19:22:53 2017 -0400
+
+    Replace invalid missing-image with image-missing icon
+
+commit 1314833ce268a0cc8a012f9bb35532a205cd7677
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jul 2 17:47:18 2017 -0400
+
+    Remove --disable-debug flag from distcheck (thanks Skunnyk) (Bug 11556)
+
+commit 184fed94fa8bacbb3f451f59f60a75b89ea36d8a
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Jul 1 18:30:02 2017 +0200
+
+    I18n: Update translation lt (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 89e734774f194e086035b72aeb1ad8fbbc340f15
+Author: jc1 <jc1.quebecos@gmail.com>
+Date:   Sat Jul 1 00:30:03 2017 +0200
+
+    I18n: Update translation fr (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 523bf14f75e9e58e0b503fda9e4362559379fabe
+Author: Andre Miranda <andre42m@gmail.com>
+Date:   Fri Jun 23 06:30:02 2017 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 4e55863b3442245fe4902bdee2ab625b47976188
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Wed Jun 21 18:30:02 2017 +0200
+
+    I18n: Update translation he (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 07e90975864bc1535a6d377663e82314edc5e5e6
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed Jun 21 06:30:03 2017 +0200
+
+    I18n: Update translation lt (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit c2ea85c204e977a54fc032d816f95bae7a18e803
+Author: Anonymous <noreply@xfce.org>
+Date:   Wed Jun 21 00:30:02 2017 +0200
+
+    I18n: Update translation da (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 57bdf524fa07d53c1684f910531bae7441725366
+Author: Kukuh Syafaat <syafaatkukuh@gmail.com>
+Date:   Tue Jun 20 12:30:02 2017 +0200
+
+    I18n: Update translation id (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit 36d4668505f30dd54460fffcd74f2e7038ef2d07
+Author: Anonymous <noreply@xfce.org>
+Date:   Sun Jun 18 18:30:02 2017 +0200
+
+    I18n: Update translation da (100%).
+    
+    295 translated messages.
+    
+    Transifex (https://www.transifex.com/projects/p/xfce/).
+
+commit bee871f1be35cda37e3f39010b867c7743314b63
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jun 18 09:26:27 2017 -0400
+
+    Post release updates
+
+commit 2708f54a3eabefa224e1c18851716df828d10a3e
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Jun 18 09:21:38 2017 -0400
+
+    Updates for release
+
 commit e539f4ab3071cbb51721201e6ef26373d60b140a
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Sun Jun 18 09:14:58 2017 -0400

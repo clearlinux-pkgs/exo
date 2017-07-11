@@ -21,6 +21,8 @@ libexo-1.so.0:exo_gdk_pixbuf_new_from_file_at_max_size
 libexo-1.so.0:exo_gdk_pixbuf_scale_down
 libexo-1.so.0:exo_gdk_pixbuf_scale_ratio
 libexo-1.so.0:exo_gdk_pixbuf_spotlight
+libexo-1.so.0:exo_gtk_dialog_add_secondary_button
+libexo-1.so.0:exo_gtk_dialog_get_action_area
 libexo-1.so.0:exo_gtk_file_chooser_add_thumbnail_preview
 libexo-1.so.0:exo_gtk_object_destroy_later
 libexo-1.so.0:exo_gtk_url_about_dialog_hook
@@ -219,6 +221,8 @@ libexo-2.so.0:exo_gdk_pixbuf_new_from_file_at_max_size
 libexo-2.so.0:exo_gdk_pixbuf_scale_down
 libexo-2.so.0:exo_gdk_pixbuf_scale_ratio
 libexo-2.so.0:exo_gdk_pixbuf_spotlight
+libexo-2.so.0:exo_gtk_dialog_add_secondary_button
+libexo-2.so.0:exo_gtk_dialog_get_action_area
 libexo-2.so.0:exo_gtk_file_chooser_add_thumbnail_preview
 libexo-2.so.0:exo_gtk_object_destroy_later
 libexo-2.so.0:exo_gtk_url_about_dialog_hook
