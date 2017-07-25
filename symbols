@@ -135,6 +135,7 @@ libexo-1.so.0:exo_simple_job_get_type
 libexo-1.so.0:exo_simple_job_launch
 libexo-1.so.0:exo_str_elide_underscores
 libexo-1.so.0:exo_str_is_equal
+libexo-1.so.0:exo_str_is_flag
 libexo-1.so.0:exo_str_looks_like_an_uri
 libexo-1.so.0:exo_str_replace
 libexo-1.so.0:exo_strdup_strftime
@@ -320,6 +321,7 @@ libexo-2.so.0:exo_simple_job_get_type
 libexo-2.so.0:exo_simple_job_launch
 libexo-2.so.0:exo_str_elide_underscores
 libexo-2.so.0:exo_str_is_equal
+libexo-2.so.0:exo_str_is_flag
 libexo-2.so.0:exo_str_looks_like_an_uri
 libexo-2.so.0:exo_str_replace
 libexo-2.so.0:exo_strdup_strftime
