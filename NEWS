@@ -1,3 +1,33 @@
+0.12.2 (Stable Release)
+======
+- Bug Fixes:
+  - Fix crash with ExoJob, Thunar (Xfce #14465)
+- Translation updates: Chinese (China), Danish
+
+0.12.1 (Stable Release)
+======
+- Bug Fixes:
+  - Use "user-bookmarks" instead of "bookmark-new" (Xfce #14243)
+  - Properly scale application icons in Preferred Apps dialog (Xfce #14362)
+  - Remove pure attribute of function that returns void (Xfce #14427)
+  - Missing varargs init or cleanup (CID #30799)
+  - Uninitialized scalar variable (CID #127777)
+- Compiler Support:
+  - Disable -Wexpansion-to-defined (GCC 7)
+  - Fix various other compiler warnings (GCC 7)
+  - Fix -Wcast-function-type (GCC 8)
+- Helpers:
+  - Add PCManFM-Qt (from LXQt) to supported file managers (Xfce #14333)
+- ExoIconChooserDialog
+  - Drop deprecated International icon context, add Stock icon context
+  - Increase icon chooser context title length to support long translations
+  - Skip symbolic icons to boost performance
+  - Added GTK 3 test to test suite
+- Translation Updates: Albanian, Amharic, Belarusian, Bulgarian, Catalan,
+  Chinese (China), Chinese (Taiwan), Czech, Danish, Dutch, English (Australia),
+  Finnish, French, Galician, Greek, Hebrew, Hungarian, Italian, Polish,
+  Portuguese, Russian, Slovak, Swedish, Turkish
+
 0.12.0 (Stable Release)
 ======
 - Bug Fixes:
