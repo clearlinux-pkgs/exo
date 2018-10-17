@@ -1,4 +1,5 @@
-0.12.2
-pkgconfig(x11)
+0.12.3
+libX11-dev
 perl
 pkgconfig(ice)
+pkgconfig(x11)
