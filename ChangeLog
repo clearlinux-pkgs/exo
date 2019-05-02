@@ -1,3 +1,197 @@
+commit dbd860208bccaf38d2713236b1c35900973a9109
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Mon Apr 22 06:30:05 2019 +0200
+
+    I18n: Update translation ko (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 11fab89749608bbb67ffa45a9ffeca1de209ebf4
+Author: Anonymous <noreply@xfce.org>
+Date:   Fri Apr 19 12:30:08 2019 +0200
+
+    I18n: Update translation bg (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 4bbf138fd9aeb819848c145518ced45a180b59a0
+Author: Romain Bouvier <skunnyk@alteroot.org>
+Date:   Thu Apr 18 23:30:16 2019 +0200
+
+    Bug #15199: Really allow libexo-1 to be disabled
+    
+    - Be able to build exo without gtk2 support
+    - Update some autohell macros to 2019
+    - For now, we can't build the doc without gtk2 support
+
+commit 5266166ba6145037ac7224327576655c256fc092
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Apr 16 18:30:03 2019 +0200
+
+    I18n: Update translation bg (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 6e22e2150d8742ae5aaf9af81c8193fcc7abd8e8
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Apr 16 12:30:03 2019 +0200
+
+    I18n: Update translation bg (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit c853d80cf046960fa1ed044c3b900679b5734999
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sun Apr 14 18:34:46 2019 -0300
+
+    Renable expansion-to-define flag
+
+commit 31cfb6ddb6a3b0fa91243013a03454965bbbf66b
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Mar 29 00:09:58 2019 -0400
+
+    Remove library version from the perl script since it doesn't depend on the library
+
+commit 5ff10d0a9f1114755f752e21e2a943aa0a94a210
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Mar 28 23:26:59 2019 -0400
+
+    Move pixmaps to unversioned common area for both versions of the library
+
+commit 2242b3adc207a1f83562686c161aa9ccffe13bff
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Mar 28 21:56:42 2019 -0400
+
+    Tidy and sort .gitignore
+
+commit de2d50f242299b8d6ea9945b91eff23585e6f091
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Mar 28 21:29:41 2019 -0400
+
+    Install helpers in exo-2 paths
+
+commit d2a013245bb59a5bc5a6855680c7f0ca07d04777
+Author: Pjotr <pjotrvertaalt@gmail.com>
+Date:   Mon Mar 25 00:30:03 2019 +0100
+
+    I18n: Update translation nl (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit bbb9f3b931f3b535b230ebe84d96a3cac398f407
+Author: Ardjuna <Asyura.x@gmail.com>
+Date:   Sat Mar 16 12:30:06 2019 +0100
+
+    I18n: Update translation id (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit ae706f0be78bfc117973818a6a8c55168090349d
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Mar 16 06:21:09 2019 -0400
+
+    Fix typehead in ExoIconView (bug #15100)
+
+commit a98456f1234303a5e439e47a67e0e2bab3c5f437
+Author: Ardjuna <Asyura.x@gmail.com>
+Date:   Sat Mar 16 06:30:03 2019 +0100
+
+    I18n: Update translation id (98%).
+    
+    296 translated messages, 3 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 2ea97bb3285a50cb5b37a7276464e3bab5b2de53
+Author: Besnik <besnik@programeshqip.org>
+Date:   Fri Mar 15 12:30:03 2019 +0100
+
+    I18n: Update translation sq (98%).
+    
+    296 translated messages, 3 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit ae72c644d2edb48ef0a64680ae74d4d51ab1c9da
+Author: Alfredo Quintero <alfredomob@gmail.com>
+Date:   Wed Mar 13 06:30:04 2019 +0100
+
+    I18n: Update translation es (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit e628d6e1497eb18718c0bb1834ae242d48a3be64
+Author: Anonymous <noreply@xfce.org>
+Date:   Thu Mar 7 18:30:04 2019 +0100
+
+    I18n: Update translation da (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 1b9a552131fd2ec886362bad15a56e500b2369c7
+Author: Anonymous <noreply@xfce.org>
+Date:   Thu Mar 7 12:30:02 2019 +0100
+
+    I18n: Update translation da (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 166cc19c029d95f4d4deda82e8741bde84833799
+Author: Pasi Lallinaho <pasi@shimmerproject.org>
+Date:   Tue Feb 19 12:30:04 2019 +0100
+
+    I18n: Update translation fi (100%).
+    
+    299 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 2097708c789a11b98e40a4aa49adc803613d57c0
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Sun Feb 17 07:54:41 2019 -0500
+
+    Allow libexo-1 to be disabled (bug #15138)
+
+commit fd24156e1d5cdd84ea6e93fdbc0c0693e99fcc0a
+Author: Andre Miranda <andre42m@gmail.com>
+Date:   Mon Jan 21 00:30:03 2019 +0100
+
+    I18n: Update translation en_GB (97%).
+    
+    293 translated messages, 6 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit d301110e3f60ae59266d1ca99191a490db036edd
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jan 19 20:15:33 2019 -0500
+
+    Post release updates
+
+commit a8e34279e48b8708928a531e5273fc158641d213
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jan 19 20:04:20 2019 -0500
+
+    Updates for release
+
 commit f8404bb974b66c72d4036913015bbca41e9c8c73
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Sat Jan 19 09:42:47 2019 -0500
