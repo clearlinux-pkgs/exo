@@ -4,7 +4,7 @@
 #
 Name     : exo
 Version  : 0.12.5
-Release  : 24
+Release  : 25
 URL      : http://archive.xfce.org/src/xfce/exo/0.12/exo-0.12.5.tar.bz2
 Source0  : http://archive.xfce.org/src/xfce/exo/0.12/exo-0.12.5.tar.bz2
 Summary  : Application library for Xfce
@@ -20,6 +20,7 @@ BuildRequires : docbook-xml
 BuildRequires : gtk-doc
 BuildRequires : gtk-doc-dev
 BuildRequires : intltool
+BuildRequires : libX11-dev
 BuildRequires : libxslt-bin
 BuildRequires : perl
 BuildRequires : perl-URI
@@ -28,9 +29,11 @@ BuildRequires : pkgconfig(glib-2.0)
 BuildRequires : pkgconfig(gthread-2.0)
 BuildRequires : pkgconfig(gtk+-2.0)
 BuildRequires : pkgconfig(gtk+-3.0)
+BuildRequires : pkgconfig(ice)
 BuildRequires : pkgconfig(libxfce4ui-1)
 BuildRequires : pkgconfig(libxfce4ui-2)
 BuildRequires : pkgconfig(libxfce4util-1.0)
+BuildRequires : pkgconfig(x11)
 
 %description
 What is it?
@@ -121,7 +124,14 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1556819583
+export SOURCE_DATE_EPOCH=1556984261
+export AR=gcc-ar
+export RANLIB=gcc-ranlib
+export NM=gcc-nm
+export CFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
+export FCFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
+export FFLAGS="$CFLAGS -O3 -ffat-lto-objects -flto=4 "
+export CXXFLAGS="$CXXFLAGS -O3 -ffat-lto-objects -flto=4 "
 %configure --disable-static
 make  %{?_smp_mflags}
 
@@ -133,7 +143,7 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make VERBOSE=1 V=1 %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1556819583
+export SOURCE_DATE_EPOCH=1556984261
 rm -rf %{buildroot}
 mkdir -p %{buildroot}/usr/share/package-licenses/exo
 cp COPYING %{buildroot}/usr/share/package-licenses/exo/COPYING
