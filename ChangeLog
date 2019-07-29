@@ -1,3 +1,171 @@
+commit ce77b17f181ffc4a5f8499f811a9cd9d101bce6d
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Jul 26 08:34:26 2019 -0400
+
+    Refresh the Sinhala template (bug #15064)
+
+commit d10dfbda8b76fed71adfd41a1b37b4b4f9da6399
+Author: Kjell Cato Heskjestad <cato@heskjestad.xyz>
+Date:   Wed Jul 24 12:30:03 2019 +0200
+
+    I18n: Update translation nb (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit b64f5add76540bb6f7c638b7201f0e2cf72f8245
+Author: Jiri Grönroos <jiri.gronroos@iki.fi>
+Date:   Sun Jul 21 18:30:03 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 9d72f9a1c55db4901ee5db9d84315e58ca8d7c33
+Author: Juhani Numminen <juhaninumminen0@gmail.com>
+Date:   Wed Jul 17 12:30:03 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 63066c571b58786d405335c90d46c97c3276c731
+Author: Jiri Grönroos <jiri.gronroos@iki.fi>
+Date:   Wed Jul 17 00:30:04 2019 +0200
+
+    I18n: Update translation fi (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit b8eba79b9e8f6849d14123083eb58e9a2a5e45e7
+Author: Baurzhan Muftakhidinov <baurthefirst@gmail.com>
+Date:   Sun Jul 14 18:30:03 2019 +0200
+
+    I18n: Update translation kk (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit ec34bbd741f506c0354c3e5e5836488f2f546a77
+Author: Yarema aka Knedlyk <yupadmin@gmail.com>
+Date:   Tue Jul 9 18:30:03 2019 +0200
+
+    I18n: Update translation uk (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit cdf4688288fab3a74244b051a44623de69b9a815
+Author: Real School <translator_students@realschool.am>
+Date:   Mon Jul 8 12:30:03 2019 +0200
+
+    I18n: Add new translation hy (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 6b9f9376197531d6868507da272726e5a7eeadef
+Author: Emanuele Petriglia <transifex@emanuelepetriglia.com>
+Date:   Thu Jun 27 12:30:04 2019 +0200
+
+    I18n: Update translation it (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8b639e0f6d7d2303e675f3f0d01bd2b53a501711
+Author: Ardjuna <Asyura.x@gmail.com>
+Date:   Thu Jun 27 12:30:03 2019 +0200
+
+    I18n: Update translation id (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 99c8a65c7443b386b1f5cb0e9a45016cbca729af
+Author: Real School <translator_students@realschool.am>
+Date:   Thu Jun 20 12:30:03 2019 +0200
+
+    I18n: Update translation hy_AM (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit f6b96faad9f16ba9702dd467317245e15e1ae04c
+Author: Anonymous <noreply@xfce.org>
+Date:   Thu Jun 20 00:30:05 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit bbe95c9dadd573168f79aada4d2b7ca07a027b24
+Author: Elishai Eliyahu <e1907@mm.st>
+Date:   Tue Jun 18 18:30:03 2019 +0200
+
+    I18n: Update translation he (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit c602f1dcf387291acd634f978c2e69b13cfececd
+Author: Anonymous <noreply@xfce.org>
+Date:   Tue Jun 18 00:30:02 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 480ee6b9ddb359c97efaf3bb1761994e2e4ca8b1
+Author: Саша Петровић <salepetronije@gmail.com>
+Date:   Mon Jun 17 06:30:04 2019 +0200
+
+    I18n: Update translation sr (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit dd012d11d9941be8b11c95dfa11d54d53841c72b
+Author: Anonymous <noreply@xfce.org>
+Date:   Sat Jun 15 00:30:03 2019 +0200
+
+    I18n: Update translation da (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 15c056736bf56ee98e573e772695e0a391df52d1
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Jun 13 21:21:31 2019 -0400
+
+    Post release updates
+
+commit c760ffc2452f0ee54aa0b2648dcceb107456691b
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Jun 13 21:17:32 2019 -0400
+
+    Updates for release
+
 commit 53084d7edc39531f6f290442960e7463eeeeab98
 Author: Real School <translator_students@realschool.am>
 Date:   Wed Jun 12 18:30:03 2019 +0200
@@ -341,7 +509,7 @@ Date:   Sat May 25 15:56:48 2019 -0400
     Configure gio mime defaults with exo-helper (bug #14633)
 
 commit b8c1bd8e5d1cae711a2567bb50b0abd9cf54f9d5
-Merge: 48e12f1 60118d7
+Merge: 48e12f1d 60118d74
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Sat May 25 14:01:01 2019 -0400
 
@@ -794,7 +962,7 @@ Date:   Fri Jan 18 21:33:33 2019 -0500
     Fix ExoCellRendererIcon rendering with GTK 3 (bug #14970)
 
 commit ac65f2a56eb9fe8bf1750b1d6086457becd62c58
-Merge: 3e67fc6 cd0c5c3
+Merge: 3e67fc6c cd0c5c3c
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Fri Jan 18 21:32:05 2019 -0500
 
@@ -2452,7 +2620,7 @@ Date:   Thu Jun 7 06:58:10 2018 -0400
     WIP release notes
 
 commit a89a1577b609d81a13ecc6cf7a0b454e88a11d90
-Merge: c6e79dd ff7c3ba
+Merge: c6e79dd1 ff7c3ba0
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Thu Jun 7 06:50:53 2018 -0400
 
@@ -5444,7 +5612,7 @@ Date:   Thu Jun 15 22:48:40 2017 -0400
     FIX: Thunar crashed when arrow key pressing immediately after directory change (Bug #13238)
 
 commit 4f6b401844c20bc2c851f3e06d30aabd16bf4071
-Merge: 1c64787 a23c91c
+Merge: 1c64787b a23c91c2
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Thu Jun 15 22:25:43 2017 -0400
 
@@ -6287,7 +6455,7 @@ Date:   Tue Jul 12 18:30:02 2016 +0200
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
 commit c4b773593c2441d6518828ac6ccc9c5e4b610256
-Merge: 201905c 360dd63
+Merge: 201905cd 360dd634
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Mon Jul 11 22:03:31 2016 -0400
 
@@ -6338,7 +6506,7 @@ Date:   Tue Jun 21 18:30:02 2016 +0200
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
 commit 54395b6613894651978618c6fe94ec40ab33f1d8
-Merge: 85d6526 915b9e8
+Merge: 85d65262 915b9e8c
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Mon Jun 6 21:27:24 2016 -0400
 
@@ -7402,7 +7570,7 @@ Date:   Thu Mar 19 00:30:03 2015 +0100
     Transifex (https://www.transifex.com/projects/p/xfce/).
 
 commit c246a05dc126f92daeda27ae8b13d3d1afd36a3b
-Merge: b74caf9 ab46205
+Merge: b74caf97 ab462052
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Tue Mar 17 19:44:05 2015 -0400
 
@@ -14842,7 +15010,7 @@ Date:   Fri Oct 23 19:22:44 2009 +0200
     Remove all the old svn $Id$ substitutions.
 
 commit 6109be2d2662aab1d2c87f10650d17c433707495
-Merge: 1d35fd6 29cce3a
+Merge: 1d35fd61 29cce3af
 Author: Nick Schermer <nick@xfce.org>
 Date:   Fri Oct 23 17:43:56 2009 +0200
 
@@ -15604,7 +15772,7 @@ Date:   Tue Aug 18 22:33:45 2009 +0200
     Also did a slight API break, making @num an unsigned int.
 
 commit 49d214266478cdec15761d7fcb18e3e48138c907
-Merge: 46ee5ce 58ebfe8
+Merge: 46ee5ce1 58ebfe83
 Author: Jannis Pohlmann <jannis@xfce.org>
 Date:   Sat Aug 15 23:56:52 2009 +0200
 
