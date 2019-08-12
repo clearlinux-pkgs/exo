@@ -1,3 +1,67 @@
+commit de811a5974e104ed84b23906ff5f980e10b42341
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Sat Aug 10 12:30:03 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 9f207f83fbdadf053b566ad1cc9129f64b8e2c8e
+Author: Simon Steinbeiss <simon.steinbeiss@elfenbeinturm.at>
+Date:   Tue Aug 6 23:02:50 2019 +0200
+
+    preferred-apps: Add button icons to Help/Close
+
+commit 2768b956155a4518f352c28760b93aa47ab0eb2b
+Author: Andre Miranda <andreldm@xfce.org>
+Date:   Thu Aug 1 23:27:44 2019 -0300
+
+    Replace GtkStock buttons
+
+commit 3acc16e57519bdb4d581b5be0c01d60add745bf4
+Author: Pavel Borecki <pavel.borecki@gmail.com>
+Date:   Fri Aug 2 00:30:02 2019 +0200
+
+    I18n: Update translation cs (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8c8223d32c131161064b3d2f320a254129aa72ea
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Tue Jul 30 12:30:03 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit edff8006d5a8545778d20be15700e39510414cd5
+Author: Michael Martins <michaelfm21@gmail.com>
+Date:   Sat Jul 27 18:30:05 2019 +0200
+
+    I18n: Update translation pt_BR (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 64b7960148abc2341ef398488629a3d360de40c0
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 27 07:00:34 2019 -0400
+
+    Post release updates
+
+commit 4ac215d125fca09f667b0edf7a6aa3870a1be593
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Jul 27 06:56:48 2019 -0400
+
+    Updates for release
+
 commit ce77b17f181ffc4a5f8499f811a9cd9d101bce6d
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Fri Jul 26 08:34:26 2019 -0400
