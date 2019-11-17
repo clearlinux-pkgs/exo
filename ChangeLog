@@ -1,3 +1,194 @@
+commit eb89d98e15cd785f1f6f3dd9c58dec58cde93099
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Nov 15 07:14:49 2019 -0500
+
+    Hide search widget when doing a fullscreen resize (bug #15106)
+
+commit 397be869aa2b37005b0d05f6196836d0db217b40
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Nov 15 06:51:31 2019 -0500
+
+    Update NEWS
+
+commit ce67e843a39d913e1d54a30cfd7480565bae9227
+Author: Jan Tojnar <jtojnar@gmail.com>
+Date:   Sat Aug 24 12:29:40 2019 +0200
+
+    exo-helper: Add gio-unix-2.0 dependency
+    
+    On some systems, gtk-3.0 does not imply gio-unix-2.0, resulting in broken builds:
+    
+        exo-helper.c:47:10: fatal error: gio/gdesktopappinfo.h: No such file or directory
+         #include <gio/gdesktopappinfo.h>
+                  ^~~~~~~~~~~~~~~~~~~~~~~
+    
+    All direct dependencies ought to be declared!
+    
+    Signed-off-by: Sean Davis <smd.seandavis@gmail.com>
+
+commit 6fcefce9f1e7bb34cb65290c37f889481a677130
+Author: Adam Purkrt <adam@purkrt.net>
+Date:   Sat Nov 2 16:44:00 2019 +0100
+
+    Fix for the bugs 16075 and 16107
+    
+    Bug: 16075
+    Bug: 16107
+    
+    The following patch fixes bugs 16075 and 16107, i.e.
+    "Icon view: excess clickable area of multiline filenames" and
+    "Multi-line filenames misaligned when text beside icons is on"
+    respectively. By relying on gtk_cell_renderer_get_aligned_area and
+    gtk_cell_renderer_get_padding it brings the box[..].width and
+    box[..].height values into correspondence with the real size of
+    drawn text.
+    
+    Signed-off-by: Sean Davis <smd.seandavis@gmail.com>
+
+commit 543bc29794395b81b17c1b09608a80ec6ba6827b
+Author: Theo Linkspfeifer <lastonestanding@tutanota.com>
+Date:   Fri Nov 15 06:25:31 2019 -0500
+
+    Fix cursor missing in search popup widget (bug #16068)
+
+commit 37e00da8247a6b60cad1cc91e734805000cba926
+Author: Adam Purkrt <adam@purkrt.net>
+Date:   Wed Oct 30 19:22:59 2019 +0100
+
+    Fix prelight deactivation (bug #11806)
+    
+    Signed-off-by: Sean Davis <smd.seandavis@gmail.com>
+
+commit 4bfead48dade33dbad37ca2d7ce072641af3f2c1
+Author: Jason Collins <JasonPCollins@protonmail.com>
+Date:   Sat Oct 26 00:30:03 2019 +0200
+
+    I18n: Update translation en_GB (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 46842b211cd38f283f5f8db69f05e870148d93ca
+Author: Arnold Marko <arnold.marko@gmail.com>
+Date:   Sat Oct 19 12:30:03 2019 +0200
+
+    I18n: Update translation sl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 3c7d1792d5ac6bd2bfc9c9e5c5c3d83899aef37c
+Author: Arnold Marko <arnold.marko@gmail.com>
+Date:   Sat Oct 19 06:30:03 2019 +0200
+
+    I18n: Update translation sl (95%).
+    
+    287 translated messages, 13 untranslated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 735d39c217e9e8615d45c54424b45133fcfa9f32
+Author: Seong-ho Cho <darkcircle.0426@gmail.com>
+Date:   Thu Oct 17 12:30:03 2019 +0200
+
+    I18n: Update translation ko (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8c8548d84fd0ca9454c894a2f2da7a9a0d6197c9
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Oct 5 08:11:52 2019 -0400
+
+    Fix desktop item creation on symbolic link directories, make user-created launchers executable by default
+
+commit 2fa107272265b2ee1da4e39ab3c59e58a9a98436
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Oct 5 05:33:27 2019 -0400
+
+    Fix issues with displaying icon view contents (bug #14737)
+
+commit 39ded34b363f779436a9c0c051e226cee6bdd679
+Author: Ivica  Kolić <ikoli@yahoo.com>
+Date:   Mon Sep 30 12:30:08 2019 +0200
+
+    I18n: Update translation hr (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8a5bb44076551804a6a07d1dd78034e9bf37601d
+Author: Yannick Le Guen <leguen.yannick@gmail.com>
+Date:   Thu Sep 19 18:30:03 2019 +0200
+
+    I18n: Update translation fr (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit b3f5a81ea0127814f4578e360e89d5711f044bd9
+Author: Stefan Höök <stefan.hook@gmail.com>
+Date:   Sat Sep 14 00:30:03 2019 +0200
+
+    I18n: Update translation sv (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 7071c417b2dc4a7cbe9a8bd9214acaefe03dc72e
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sat Aug 24 06:21:01 2019 -0400
+
+    Remove dependency on gio-unix-2.0 (bug #15825)
+
+commit 16c22c733f31e7a5ba97de2df396365a529cdc0d
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Fri Aug 23 12:30:03 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 16ac3c632832b437ff61e7768c9301666aa7ead4
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Sat Aug 17 00:30:03 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit db8e61b82c396d53be4f02a1205d34b8002258a7
+Author: Daniel Muñiz Fontoira <dani@damufo.com>
+Date:   Fri Aug 16 18:30:03 2019 +0200
+
+    I18n: Update translation gl (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 4c78fbdbdb86c1a35a84b35ff0251fd7f1bb3eb9
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Aug 11 16:08:21 2019 -0400
+
+    Back to development
+
+commit 87911b9e04a2470aef8d120f5eef282d9ae9125c
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Sun Aug 11 16:06:39 2019 -0400
+
+    Updates for release
+
 commit de811a5974e104ed84b23906ff5f980e10b42341
 Author: Daniel Muñiz Fontoira <dani@damufo.com>
 Date:   Sat Aug 10 12:30:03 2019 +0200
