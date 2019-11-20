@@ -1,3 +1,33 @@
+commit 4973551076cf6b0481250105d7199a633d6d462b
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Nov 19 20:21:07 2019 -0500
+
+    Revert "Hide search widget when doing a fullscreen resize" (bug #16191)"
+    
+    This reverts commit eb89d98e15cd785f1f6f3dd9c58dec58cde93099.
+
+commit eb264783c9d98e15f2f0917781467b626ab89152
+Author: Toni Estévez <toni.estevez@gmail.com>
+Date:   Sun Nov 17 00:30:02 2019 +0100
+
+    I18n: Update translation es (100%).
+    
+    300 translated messages.
+    
+    Transifex (https://www.transifex.com/xfce/public/).
+
+commit 8353267665262df4c389f183495c169347fc3284
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Nov 15 12:52:10 2019 -0500
+
+    Back to development
+
+commit 4b7694f3d6492a5a8301872f0c17e2bfb5d930e5
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Fri Nov 15 12:50:39 2019 -0500
+
+    Updates for release
+
 commit eb89d98e15cd785f1f6f3dd9c58dec58cde93099
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Fri Nov 15 07:14:49 2019 -0500
