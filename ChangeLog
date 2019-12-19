@@ -1,3 +1,35 @@
+commit 55e41c76375322a85ae3062a0acfd40d1a9b6aeb
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Dec 19 05:10:00 2019 -0500
+
+    Bump documentation dates
+
+commit 05f15e58b6f9a4272d171b80cec039adb65d57ce
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Thu Dec 19 05:03:05 2019 -0500
+
+    Add *.mo to .gitignore
+
+commit a925f0b2af7249fd5119cdc27cb6a306b42e795e
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Nov 26 05:47:41 2019 -0500
+
+    Revert padding patches that add too much padding in the Thunar compact view (bug 16196)
+    
+    This reverts commit 6fcefce9f1e7bb34cb65290c37f889481a677130.
+
+commit 7c5b1952c19bdd6a787718b62303ad2164c78175
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Nov 19 20:31:30 2019 -0500
+
+    Back to development
+
+commit f2106cd4636012e01b5bfbf5fee8e972dbc5e5b1
+Author: Sean Davis <smd.seandavis@gmail.com>
+Date:   Tue Nov 19 20:28:37 2019 -0500
+
+    Updates for release
+
 commit 4973551076cf6b0481250105d7199a633d6d462b
 Author: Sean Davis <smd.seandavis@gmail.com>
 Date:   Tue Nov 19 20:21:07 2019 -0500

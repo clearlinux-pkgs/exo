@@ -1,5 +1,5 @@
 PKG_NAME := exo
-URL = http://archive.xfce.org/src/xfce/exo/0.12/exo-0.12.10.tar.bz2
+URL = http://archive.xfce.org/src/xfce/exo/0.12/exo-0.12.11.tar.bz2
 ARCHIVES = 
 
 include ../common/Makefile.common
