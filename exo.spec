@@ -5,8 +5,8 @@
 Name     : exo
 Version  : 4.16.0
 Release  : 33
-URL      : https://archive.xfce.org/xfce/4.16/src/exo-4.16.0.tar.bz2
-Source0  : https://archive.xfce.org/xfce/4.16/src/exo-4.16.0.tar.bz2
+URL      : https://archive.xfce.org/src/xfce/exo/4.16/exo-4.16.0.tar.bz2
+Source0  : https://archive.xfce.org/src/xfce/exo/4.16/exo-4.16.0.tar.bz2
 Summary  : Extension library for Xfce
 Group    : Development/Tools
 License  : GPL-2.0 LGPL-2.1
